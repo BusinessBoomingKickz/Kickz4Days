@@ -41,3 +41,7 @@ footer {
   background-color: dodgerblue;
   grid-area: footer;
 }
+
+p{
+  font-size: 25px;
+}
