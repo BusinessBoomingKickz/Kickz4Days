@@ -7,12 +7,13 @@
 }
 
 .box {
+  background-image: url("reebok-logo-700x400")
   background-color: beige;
   color: black;
   border-radius: 5px;
   border: 2px dodgerblue solid;
 }
 img{
- maximum-width:200px;
+ maximum-width: 200px;
  maximum-height: 200px;
 }
