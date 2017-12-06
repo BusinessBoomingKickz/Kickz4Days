@@ -30,13 +30,15 @@ nav {
 .left {
   background-color: dodgerblue;
   grid-area: left;
-  height: 1000px;
-  width: 1000px
+  height: 600px;
+  width: 600px
 }
 
 .right {
   background-color: beige;
   grid-area: right;
+   height: 600px;
+  width: 600px
 }
 
 footer {
