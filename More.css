@@ -30,6 +30,8 @@ nav {
 .left {
   background-color: dodgerblue;
   grid-area: left;
+  height: 1000px;
+  width: 1000px
 }
 
 .right {
