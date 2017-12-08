@@ -39,6 +39,7 @@ img {
 .main {
   padding-left: 30px;
   min-width: 75%;
+  background-color: White;
 }
 
 .nav {
@@ -51,6 +52,7 @@ img {
 .nav h1 {
   padding-left: 20px;
 }
+
 
 
 
