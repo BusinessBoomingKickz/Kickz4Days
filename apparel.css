@@ -1,29 +1,55 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <title>Apperal</title>
-  <meta charset="utf-8"/>
-  <link rel="stylesheet" type="text/css" href="apperal.html">
-</head>
-<body>
-  <div class="container">
-    <div class="nav">
-      <h2>Apperal</h2>
-      
-        <li>Bape</li>
-        <li>Supreme</li>
-         
-        <li>Off-White</li>
-     
-     </div>
-    <div class="main">
-      <h1>Apperal</h1>
-      <h3>This is all about apperal.</h3>
-      <p>On here what we present is all the apperal you can cop off us.Bape, Supreme and Off-White. Heat clothing and hard to get clothing. Only Here at our website!  </p>
-    
-      <img width="320" height="240" controls>
-        <source src=><img>
-    </div>
-  </div>
-  </body>
-</html>
+html, body {
+  font-family: sans-serif;
+  margin: 0;
+  width: 100%;
+  height: 100%;
+}
+
+h1 {
+  font-size: 48px;
+}
+
+p {
+  max-width: 65%;
+  min-width: 500px;
+}
+
+h2 {
+  text-align: center;
+  font-size: 2.6rem;
+}
+
+div {
+  padding-right: 30px;
+  height: 100%;
+  width: 100%;
+}
+
+video {
+  background-color: #000000;
+  border: 2px solid black;
+}
+
+.container {
+  display: flex;
+}
+
+.main {
+  padding-left: 30px;
+  min-width: 75%;
+}
+
+.nav {
+  background-color: #FFEE00;
+  max-width: 25%;
+  min-width: 140px;
+  flex: 1;
+}
+
+.nav h1 {
+  padding-left: 20px;
+}
+
+
+
+
