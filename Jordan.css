@@ -12,3 +12,8 @@
   border-radius: 5px;
   border: 2px dodgerblue solid;
 }
+
+img { 
+  height: 300px;
+  width: 300px;
+}
