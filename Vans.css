@@ -6,15 +6,34 @@ body {
 }
 
 h1 {
-	font-size: 32px;
+	font-size: 45px;
   font-family: Palatino, 'Palatino Linotype', serif;
   color: rgb(121,149,117);
 }
 
 h2 {
-	font-size: 56px;
+	font-size: 40px;
 }
 
+h3 {
+	font-size: 35px;
+}
+
+h4 {
+	font-size: 35px;
+}
+
+h5 {
+	font-size: 35px;
+}
+
+h6 {
+	font-size: 35px;
+}
+
+h7 {
+	font-size: 35px;
+}
 
 .hero {
 	padding: 250px 0;
